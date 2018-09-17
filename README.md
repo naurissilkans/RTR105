@@ -13,7 +13,9 @@ pwd -parāda lokāciju failu sistēmā
 l -al -visas direktorijas
 history -parāda visu lietoto komandu vēsturi
 history nosaukums .txt -nosūta komandu vēsturi uz noteiktu failu
+
 17.09.18
+
 es -a -parāda visus objektus mapē
 cd -pārvietošanās failu direktorijā(p: cd Music -aiziet uz mapi Music)
 ls -la detalizēta informācija par mapi
