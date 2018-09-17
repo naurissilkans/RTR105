@@ -13,3 +13,37 @@ pwd -parāda lokāciju failu sistēmā
 l -al -visas direktorijas
 history -parāda visu lietoto komandu vēsturi
 history nosaukums .txt -nosūta komandu vēsturi uz noteiktu failu
+17.09.18
+es -a -parāda visus objektus mapē
+cd -pārvietošanās failu direktorijā(p: cd Music -aiziet uz mapi Music)
+ls -la detalizēta informācija par mapi
+cd . -tekošā direktorija
+cd .. -iziet no mapes
+/ -root apgabala apzīmējums
+Nokļūšana mājās
+1) cd /home/user
+2) cd ~(~ ir mājas apzīmējums)
+3) cd 
+Mapes veidošana
+mkdir mapesnosaukums -izveido mapi
+rmdir mapesnosaukums -dzēš mapi
+rm -r mapesnosaukums -ļauj mapi nodēst ar visu saturu
+echo -attēlo tekstu (echo "Teksts")
+Teksta aizvietošana failā
+echo "Teksts" >fails.txt -izveido failu, ja fails jau pastāv,tad tas tiek pārrakstīts
+Faila satura apskatīšana
+1)cat fails.txt
+2)more fails.txt
+3)less fails.txt
+
+echo "Teksts" >>fails.txt -fails tiek papildināts
+nano fails.txt -atver failu teksta redaktorā
+Faila kopēšana
+cp fails1.txt fails101.txt (fails1.txt-kopējamais fails; fails101.txt-pārkopētais fails)
+Failu pārcelšana
+mv *1*.txt Mape/ -pārcelt failus, kuru nos ir 1 uzn mapi
+mv fails1.txt ..//fails101.txt -pārcelt un pārsaukt failu
+mv fails101.txt fails102.txt -faila pārdēvēšana
+
+es Mape/ -parāda mapes saturu
+es -la Mape/ -parāda visus objektus mapē
