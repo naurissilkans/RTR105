@@ -1,0 +1,43 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  whoami
+    5  ls
+    6  ls-l
+    7  nano mans_skripts.sh
+    8  ls -l
+    9  cat mans_skripts.sh
+   10  history
+   11  cat /bin/ls
+   12  
+   13  echo $PATH
+   14  pwd
+   15  ls -l
+   16  ./mans_skripts.sh
+   17  pwd
+   18  /home/user/mans_skripts.sh
+   19  ~/mans_skripts.sh
+   20  chmod 764 mans_skripts.sh
+   21  ls -l
+   22  echo $PATH
+   23  PATH=$PATH:/home/user
+   24  echo $PATH
+   25  mans_skripts.sh 
+   26  ls -l
+   27  git clone https://github.com/naurissilkans/RTR105
+   28  ls -l
+   29  mv mans_skripts.sh RTR105/
+   30  ls -l
+   31  cd RTR105
+   32  LS -L
+   33  ls -l
+   34  nano README.md
+   35  history
+   36  nano README.md
+   37  ls -l
+   38  nano git-upload
+   39  ls -l
+   40  chmod 764 git-upload
+   41  ls -l
+   42  history
+   43  history > history_20180926.txt

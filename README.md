@@ -49,3 +49,18 @@ mv fails101.txt fails102.txt -faila pārdēvēšana
 
 es Mape/ -parāda mapes saturu
 es -la Mape/ -parāda visus objektus mapē
+
+26.9.18
+nano mans_skripts.sh izveido skriptu, ļaij to reģidēt teksta redaktorā
+cat mans_skripts.sh
+chmod 767 mans_skripts.sh piešķir skriptam izpildvaru
+Lai palaistu skriptu:
+./mans_skripts.sh
+/home/user/mans_skripts.sh
+~/mans_skripts.sh
+echo $PATH parāda caurskata mapes
+PATH=$PATH:/home/user
+git clone https://github.com/naurissilkans/RTR105 lejupielādēt manu githuba mapi
+mv mans_skripts.sh RTR105/(VAR RAKSTĪT JAUNO FAILA NOSAUKUMU) pārvieto mans_skripts.sh uz RTR105 ar to pašu nosaukumu
+cd RTR105
+nano README.md atver failu readme.md teksta redaktorā
