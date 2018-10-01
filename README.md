@@ -64,3 +64,16 @@ git clone https://github.com/naurissilkans/RTR105 lejupielādēt manu githuba ma
 mv mans_skripts.sh RTR105/(VAR RAKSTĪT JAUNO FAILA NOSAUKUMU) pārvieto mans_skripts.sh uz RTR105 ar to pašu nosaukumu
 cd RTR105
 nano README.md atver failu readme.md teksta redaktorā
+
+01.10.18.
+PYTHON
+
+vars()
+__builtins__
+print(__builtins__.__doc__)
+a = 10
+ IPYTHON
+
+IDLE (com.idle &)
+type(a)
+
