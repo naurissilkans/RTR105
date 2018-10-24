@@ -1,0 +1,22 @@
+Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
+[GCC 7.3.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+===================== RESTART: /home/user/RTR105/ttes.py =====================
+5
+4
+3
+2
+1
+Blastoff!
+>>> 
+===================== RESTART: /home/user/RTR105/ttes.py =====================
+Before
+3 3
+3 41
+3 12
+3 9
+3 74
+3 15
+After 3
+>>> 
