@@ -79,3 +79,8 @@ type(a)
 
 10.10.2018
 python raw_input pieprasa lietotājam ievadīt 
+
+
+05.11.2018
+	STRINGS
+
