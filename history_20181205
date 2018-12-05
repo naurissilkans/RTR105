@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/naurissilkans/RTR105
+    4  cd RTR105/
+    5  idle&
+    6  nano readme.txt
+    7  ls -l
+    8  nano README.md
+    9  ./ git-upload 20181205_13_57
+   10  ./git-upload 20181205_13_57
+   11  ./git-upload 20181205_13_58
+   12  ./git-upload 20181205_13_59
+   13  ./git-upload 20181205_14_00
+   14  history > history_20181205
