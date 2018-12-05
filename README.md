@@ -1,9 +1,11 @@
+
 # RTR105
 datormācības kursa elektroniskā klade
 ctrl+alt+T -atver termināli
 ctrl+shift+T -atverapakštermināli
 ctrl+L -notīra termināli
 uname -terminālī parāda operētājsistēmas nosaukumu
+
 man komandas nos. -parāda komandas aprakstu
 uname -a -pilns operētājsistēmas nosaukums
 echo$ -atver bash termināli
@@ -84,3 +86,8 @@ python raw_input pieprasa lietotājam ievadīt
 05.11.2018
 	STRINGS
 
+05.12.18
+Skaitliskā diferencēšana
+
+- f(x+deltax)-f(x) / deltax -forward differnce
+-
