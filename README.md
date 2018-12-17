@@ -91,3 +91,8 @@ Skaitliskā diferencēšana
 
 - f(x+deltax)-f(x) / deltax -forward differnce
 -
+
+
+17.12.18
+Skaitliskā integrēšana
+MonteCarlo.py fails
